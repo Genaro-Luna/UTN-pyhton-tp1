@@ -55,3 +55,5 @@ num2 = float(input("Ingrese numero 2"))
 num3 = float(input("Ingrese numero 3"))
 promedio = (num1 + num2 + num3)/3
 print(f"El promedio es: {promedio}")
+
+print("FIN")
